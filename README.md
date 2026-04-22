@@ -8,6 +8,9 @@ POTENTIAL FIXES/UPDATES:
 To make the first and last name coherent, we could further sort the dataset by name origin. 
 First pick a completely random last name. Then based on chosen last name, choose a first name from same origin.
 
+EDIT:
+The problem most encountered here were incoherent first and last names. Timmy Bouffougha is a nice example. We should consider grouping by cultural subsets.
+
 SOURCES:
 
 Input set of first last names from: https://www.data.gouv.fr/en/datasets/liste-de-prenoms-et-patronymes/
